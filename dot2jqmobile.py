@@ -1,7 +1,14 @@
+import sys
 import pydot
 from pprint import pprint
 
-g = pydot.graph_from_dot_file("test.dot")
+
+# first arg is the dot file
+if len(sys.argv) < 2:
+    print "usage: dot2jqmobile dotfile.dot > jqmfile.html"
+    exit()
+
+g = pydot.graph_from_dot_file(sys.argv[1])
 
 JQM_HEADER = '''
 <!DOCTYPE html>
