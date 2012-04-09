@@ -8,10 +8,10 @@ Example
 
 Here's a DOT graph:
 
-graph condiments {
-    ketchup -- mayonnaise -- tartar -- lemon
-    ketchup -- bbq
-}
+    graph condiments {
+        ketchup -- mayonnaise -- tartar -- lemon
+        ketchup -- bbq
+    }
 
 And here's the generated jQuery Mobile site: http://db.tt/CV2UKgqW
 
