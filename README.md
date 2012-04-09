@@ -17,11 +17,11 @@ And here's the generated jQuery Mobile site: http://db.tt/CV2UKgqW
 
 **Bonus:** render an image of the graph with dot
 
-![rendered](http://dl.dropbox.com/u/19419/dotmobile/test.png)
+![rendered graph](http://dl.dropbox.com/u/19419/dotmobile/test.png)
 
 References
 ----------
 
-[jQuery Mobile](jquerymobile.com/)
-[DOT language](http://en.wikipedia.org/wiki/DOT_language)
-Pixelglow's [Graphviz](http://www.pixelglow.com/graphviz/) dot image renderer
+* [jQuery Mobile](jquerymobile.com/)
+* [DOT language](http://en.wikipedia.org/wiki/DOT_language)
+* Pixelglow's [Graphviz](http://www.pixelglow.com/graphviz/) dot image renderer
