@@ -3,6 +3,15 @@ dot2jqmobile
 
 dot2jqmobile generates a skeletal jQuery Mobile site from a DOT graph.
 
+Usage
+-----
+
+Supply a dot file, pipe the output to an html file.
+
+
+    python dot2jqmobile.py dotfile.dot > jqmfile.html
+
+
 Example
 -------
 
