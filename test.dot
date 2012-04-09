@@ -1,0 +1,4 @@
+graph condiments {
+    ketchup -- mayonnaise -- tartar -- lemon
+    ketchup -- bbq
+}
